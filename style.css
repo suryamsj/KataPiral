@@ -1,0 +1,80 @@
+a {
+    color: #7f8c8d;
+}
+
+i {
+    margin-top: 18px;
+}
+
+i:hover {
+    cursor: pointer;
+}
+
+i.fa-facebook:hover {
+    color: #3498db;
+}
+
+i.fa-github:hover {
+    color: #1abc9c;
+}
+
+i.fa-youtube:hover {
+    color: #e74c3c;
+}
+
+.social {
+    text-align: center;
+}
+
+.btn-dark {
+    border: none;
+}
+
+.tombol {
+    background: #9b59b6;
+    border: 2px solid #9b59b6;
+}
+
+.tombol:hover {
+    background: #8e44ad;
+    border: 2px solid #8e44ad;
+}
+
+p.footer {
+    color: white;
+    text-align: center;
+}
+
+span.footer {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #9b59b6;
+    font-weight: bold;
+}
+
+span.navbar-brand mb-0 h1 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: bold;
+}
+
+.form-control {
+    border: 1px solid #bdc3c7;
+}
+
+.bg-costum {
+    background-color: #9b59b6 !important;
+}
+
+.bg-dark {
+    background-color: #2f3640 !important;
+}
+
+.card {
+    margin-bottom: 5px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+@media (min-width: 576px) {
+    .card {
+        margin-bottom: 0px;
+    }
+}
